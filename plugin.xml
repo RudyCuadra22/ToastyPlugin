@@ -48,8 +48,6 @@
 
 	    <source-file src="src/android/com/iu/amlibrary/amlibrary.java"
 	        target-dir="src/com/iu/amlibrary" />
-		<source-file src="src/android/com/iu/amlibrary/HostComplianceActivity.java"
-	        target-dir="src/com/iu/amlibrary" />
      <resource-file src="iu-proguard.txt"
                target="iu-proguard.txt"/>
 	</platform>
