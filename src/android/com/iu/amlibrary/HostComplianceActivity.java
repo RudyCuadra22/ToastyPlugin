@@ -7,6 +7,5 @@ public class HostComplianceActivity extends DRComplianceActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_host_compliance);
     }
 }
